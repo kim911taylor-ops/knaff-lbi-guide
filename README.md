@@ -32,3 +32,9 @@ Edit `data/concerts.json`. The app deliberately links to current schedules becau
 - Water temperature and waves: NOAA buoy 44091 near Barnegat Light
 
 No paid API key is required.
+
+## Version 1.01 tide correction
+
+The tide panel now ignores tide events that already happened and displays the
+next upcoming high tide and next upcoming low tide, using NOAA predictions
+covering today and the following two days.
