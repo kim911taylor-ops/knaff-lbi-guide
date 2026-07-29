@@ -1,0 +1,689 @@
+[
+  {
+    "name": "How You Brewin’",
+    "category": "Coffee & Breakfast",
+    "description": "Our favorite coffee on LBI.",
+    "pick": true,
+    "local": false,
+    "website": "https://howyoubrewin.com/",
+    "maps": "How You Brewin Coffee Company Long Beach Island NJ",
+    "tags": [
+      "coffee",
+      "breakfast"
+    ]
+  },
+  {
+    "name": "The Local Market & Kitchen",
+    "category": "Coffee & Breakfast",
+    "description": "Excellent coffee, breakfast, and especially good prepared food to bring home.",
+    "pick": true,
+    "local": false,
+    "website": "https://www.localmarketlbi.com/",
+    "maps": "The Local Market and Kitchen LBI NJ",
+    "tags": [
+      "coffee",
+      "prepared food",
+      "breakfast"
+    ]
+  },
+  {
+    "name": "Bageleddi’s",
+    "category": "Coffee & Breakfast",
+    "description": "Bagels and breakfast sandwiches.",
+    "pick": true,
+    "local": false,
+    "website": "",
+    "maps": "Bageleddi's Ship Bottom NJ",
+    "tags": [
+      "bagels",
+      "breakfast"
+    ]
+  },
+  {
+    "name": "Playa Bowls",
+    "category": "Coffee & Breakfast",
+    "description": "Açaí bowls and smoothies.",
+    "pick": true,
+    "local": false,
+    "website": "https://www.playabowls.com/",
+    "maps": "Playa Bowls Long Beach Island NJ",
+    "tags": [
+      "acai",
+      "smoothie"
+    ]
+  },
+  {
+    "name": "Wally’s",
+    "category": "Coffee & Breakfast",
+    "description": "Breakfast, lunch, or dinner. Check the digital waitlist before going at busy times.",
+    "pick": true,
+    "local": false,
+    "website": "https://www.wallyslbi.com/",
+    "maps": "Wally's Surf City NJ",
+    "tags": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "waitlist"
+    ]
+  },
+  {
+    "name": "ScoJo’s Eatery",
+    "category": "Coffee & Breakfast",
+    "description": "Highly rated local breakfast and brunch favorite.",
+    "pick": false,
+    "local": true,
+    "website": "https://scojos.com/",
+    "maps": "ScoJo's Eatery Surf City NJ",
+    "tags": [
+      "breakfast",
+      "brunch"
+    ]
+  },
+  {
+    "name": "Uncle Will’s",
+    "category": "Coffee & Breakfast",
+    "description": "Longtime Beach Haven breakfast favorite known for pancakes.",
+    "pick": false,
+    "local": true,
+    "website": "https://unclewills.com/",
+    "maps": "Uncle Will's Beach Haven NJ",
+    "tags": [
+      "breakfast",
+      "pancakes"
+    ]
+  },
+  {
+    "name": "The Chicken or the Egg",
+    "category": "Coffee & Breakfast",
+    "description": "Breakfast all day, wings, and a lively family atmosphere.",
+    "pick": false,
+    "local": true,
+    "website": "https://www.492fowl.com/",
+    "maps": "The Chicken or the Egg Beach Haven NJ",
+    "tags": [
+      "breakfast",
+      "wings"
+    ]
+  },
+  {
+    "name": "Crêperie de la Mer",
+    "category": "Coffee & Breakfast",
+    "description": "French crêpes, coffee, and pastries.",
+    "pick": false,
+    "local": true,
+    "website": "https://www.creperiedelamer.com/",
+    "maps": "Creperie de la Mer Beach Haven NJ",
+    "tags": [
+      "crepes",
+      "coffee"
+    ]
+  },
+  {
+    "name": "Mario’s Italian Market",
+    "category": "Lunch & Sandwiches",
+    "description": "Great lunch sandwiches and Italian specialties in Surf City.",
+    "pick": true,
+    "local": false,
+    "website": "https://themariositalianmarket.com/",
+    "maps": "Mario's Italian Market Surf City NJ",
+    "tags": [
+      "Italian",
+      "sandwiches"
+    ]
+  },
+  {
+    "name": "Okie’s Butcher Shop",
+    "category": "Lunch & Sandwiches",
+    "description": "Go for the roast beef or fresh turkey hoagie.",
+    "pick": true,
+    "local": false,
+    "website": "https://okiesbutchershop.com/",
+    "maps": "Okie's Butcher Shop Surf City NJ",
+    "tags": [
+      "hoagie",
+      "roast beef",
+      "turkey"
+    ]
+  },
+  {
+    "name": "Port Hole Café",
+    "category": "Lunch & Sandwiches",
+    "description": "Our family pick for a roast beef sandwich.",
+    "pick": true,
+    "local": false,
+    "website": "",
+    "maps": "Port Hole Cafe Ship Bottom NJ",
+    "tags": [
+      "roast beef",
+      "sandwich"
+    ]
+  },
+  {
+    "name": "Mystic Market",
+    "category": "Lunch & Sandwiches",
+    "description": "Lobster rolls and pork roll sandwiches.",
+    "pick": true,
+    "local": false,
+    "website": "https://mysticmarketlbi.com/",
+    "maps": "Mystic Market LBI NJ",
+    "tags": [
+      "lobster roll",
+      "pork roll"
+    ]
+  },
+  {
+    "name": "Neptune Market",
+    "category": "Lunch & Sandwiches",
+    "description": "Popular north-end market for burgers, sandwiches, and lobster rolls.",
+    "pick": false,
+    "local": true,
+    "website": "https://neptunemarket.com/",
+    "maps": "Neptune Market Harvey Cedars NJ",
+    "tags": [
+      "burger",
+      "sandwich",
+      "lobster roll"
+    ]
+  },
+  {
+    "name": "Ship Bottom Shellfish",
+    "category": "Dinner",
+    "description": "A full sit-down seafood meal in a cozy dining room.",
+    "pick": true,
+    "local": false,
+    "website": "https://www.shipbottomshellfish.com/",
+    "maps": "Ship Bottom Shellfish NJ",
+    "tags": [
+      "seafood",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Russo’s Italian Restaurant",
+    "category": "Dinner",
+    "description": "Our Italian dinner go-to.",
+    "pick": true,
+    "local": false,
+    "website": "https://russoslbi.com/",
+    "maps": "Russo's Italian Restaurant Ship Bottom NJ",
+    "tags": [
+      "Italian",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Black Eyed Susans",
+    "category": "Dinner",
+    "description": "Highly regarded seasonal restaurant in Harvey Cedars.",
+    "pick": false,
+    "local": true,
+    "website": "https://www.blackeyedsusanslbi.com/",
+    "maps": "Black Eyed Susans Harvey Cedars NJ",
+    "tags": [
+      "dinner",
+      "Harvey Cedars"
+    ]
+  },
+  {
+    "name": "Stefano’s",
+    "category": "Dinner",
+    "description": "Fine dining with Italian and coastal dishes.",
+    "pick": false,
+    "local": true,
+    "website": "https://stefanoslbi.com/",
+    "maps": "Stefano's Restaurant Long Beach Island NJ",
+    "tags": [
+      "fine dining",
+      "Italian"
+    ]
+  },
+  {
+    "name": "The Gables",
+    "category": "Dinner",
+    "description": "Elegant prix-fixe dining for a special occasion.",
+    "pick": false,
+    "local": true,
+    "website": "https://www.gableslbi.com/",
+    "maps": "The Gables Beach Haven NJ",
+    "tags": [
+      "fine dining",
+      "special occasion"
+    ]
+  },
+  {
+    "name": "Black Whale Bar & Fish House",
+    "category": "Dinner",
+    "description": "Seafood, raw bar, and cocktails in Beach Haven.",
+    "pick": false,
+    "local": true,
+    "website": "https://blackwhalelbi.com/",
+    "maps": "Black Whale Bar and Fish House Beach Haven NJ",
+    "tags": [
+      "seafood",
+      "raw bar"
+    ]
+  },
+  {
+    "name": "Parker’s Garage & Oyster Saloon",
+    "category": "Dinner",
+    "description": "Bayfront seafood and oysters with sunset views.",
+    "pick": false,
+    "local": true,
+    "website": "https://parkersgaragelbi.com/",
+    "maps": "Parker's Garage Beach Haven NJ",
+    "tags": [
+      "seafood",
+      "oysters",
+      "sunset"
+    ]
+  },
+  {
+    "name": "Tucker’s Tavern",
+    "category": "Dinner",
+    "description": "Waterfront tavern, raw bar, and outdoor seating.",
+    "pick": false,
+    "local": true,
+    "website": "https://tuckerstavern-lbi.com/",
+    "maps": "Tucker's Tavern Beach Haven NJ",
+    "tags": [
+      "tavern",
+      "raw bar"
+    ]
+  },
+  {
+    "name": "Bird & Betty’s",
+    "category": "Dinner",
+    "description": "Food, rooftop deck, and live music.",
+    "pick": false,
+    "local": true,
+    "website": "https://birdandbettys.com/",
+    "maps": "Bird and Betty's Beach Haven NJ",
+    "tags": [
+      "rooftop",
+      "music"
+    ]
+  },
+  {
+    "name": "Azzurri Italian Cucina",
+    "category": "Dinner",
+    "description": "Italian cuisine and house-made pasta in Harvey Cedars.",
+    "pick": false,
+    "local": true,
+    "website": "https://azzurrilbi.com/",
+    "maps": "Azzurri Italian Cucina Harvey Cedars NJ",
+    "tags": [
+      "Italian",
+      "pasta"
+    ]
+  },
+  {
+    "name": "Surf City Pizza",
+    "category": "Pizza & Treats",
+    "description": "Our pizza choice before 8 PM.",
+    "pick": true,
+    "local": false,
+    "website": "",
+    "maps": "Surf City Pizza NJ",
+    "tags": [
+      "pizza"
+    ]
+  },
+  {
+    "name": "Gateway Restaurant & Lounge",
+    "category": "Pizza & Treats",
+    "description": "Our late-night pizza stop.",
+    "pick": true,
+    "local": false,
+    "website": "https://gatewaylbi.com/",
+    "maps": "Gateway Restaurant Long Beach Island NJ",
+    "tags": [
+      "pizza",
+      "late night"
+    ]
+  },
+  {
+    "name": "Rich’s Ice Cream",
+    "category": "Pizza & Treats",
+    "description": "A favorite ice cream stop.",
+    "pick": true,
+    "local": false,
+    "website": "",
+    "maps": "Rich's Ice Cream Long Beach Island NJ",
+    "tags": [
+      "ice cream"
+    ]
+  },
+  {
+    "name": "Rita’s Italian Ice",
+    "category": "Pizza & Treats",
+    "description": "Italian ice or a gelati after the beach.",
+    "pick": true,
+    "local": false,
+    "website": "https://www.ritasice.com/",
+    "maps": "Rita's Italian Ice Long Beach Island NJ",
+    "tags": [
+      "Italian ice",
+      "gelati"
+    ]
+  },
+  {
+    "name": "Blue Claw Seafood Market",
+    "category": "Markets",
+    "description": "Fresh shrimp, fish, scallops, clams, lobster, crab—any seafood to cook at home.",
+    "pick": true,
+    "local": false,
+    "website": "https://www.blueclawlbi.com/",
+    "maps": "Blue Claw Seafood Market Surf City NJ",
+    "tags": [
+      "seafood market",
+      "shrimp",
+      "fish"
+    ]
+  },
+  {
+    "name": "Blacky’s Clam Stand",
+    "category": "Markets",
+    "description": "Off-island wholesale pickup for fresh clams and shellfish.",
+    "pick": true,
+    "local": false,
+    "website": "",
+    "maps": "Blacky's Clam Stand Manahawkin NJ",
+    "tags": [
+      "clams",
+      "off island",
+      "wholesale"
+    ]
+  },
+  {
+    "name": "Boulevard Clams",
+    "category": "Markets",
+    "description": "Seafood cooked broiled, fried, or steamed.",
+    "pick": true,
+    "local": false,
+    "website": "",
+    "maps": "Boulevard Clams Surf City NJ",
+    "tags": [
+      "clams",
+      "seafood"
+    ]
+  },
+  {
+    "name": "Anchor Produce",
+    "category": "Markets",
+    "description": "Our stop for fresh Jersey corn in season.",
+    "pick": true,
+    "local": false,
+    "website": "https://anchor-produce.myshopify.com/",
+    "maps": "Anchor Produce Surf City NJ",
+    "tags": [
+      "corn",
+      "produce"
+    ]
+  },
+  {
+    "name": "Country Corner Farm Market",
+    "category": "Markets",
+    "description": "Produce, pies, and baked goods.",
+    "pick": true,
+    "local": false,
+    "website": "",
+    "maps": "Country Corner Farm Market Ship Bottom NJ",
+    "tags": [
+      "produce",
+      "pies"
+    ]
+  },
+  {
+    "name": "The Cheese Shoppe",
+    "category": "Markets",
+    "description": "Everything for a charcuterie board.",
+    "pick": true,
+    "local": false,
+    "website": "https://lbicheese.com/",
+    "maps": "The Cheese Shoppe Long Beach Island NJ",
+    "tags": [
+      "cheese",
+      "charcuterie"
+    ]
+  },
+  {
+    "name": "Surf City Farmers Market",
+    "category": "Markets",
+    "description": "Monday morning at the Surf City Firehouse. Go early for the best selection.",
+    "pick": true,
+    "local": false,
+    "website": "https://www.facebook.com/SCFDfarmersmarket/",
+    "maps": "Surf City Farmers Market 713 Long Beach Blvd Surf City NJ",
+    "tags": [
+      "Monday",
+      "farmers market"
+    ]
+  },
+  {
+    "name": "The Salt Shack",
+    "category": "Sunset & Happy Hour",
+    "description": "Waterfront drinks and beautiful bay sunsets.",
+    "pick": true,
+    "local": false,
+    "website": "https://thesaltshacknj.com/",
+    "maps": "The Salt Shack Beach Haven NJ",
+    "tags": [
+      "sunset",
+      "drinks"
+    ]
+  },
+  {
+    "name": "The Boatyard / Prop Bar",
+    "category": "Sunset & Happy Hour",
+    "description": "Relaxed marina setting for sunset drinks.",
+    "pick": true,
+    "local": false,
+    "website": "https://theboatyardnj.com/",
+    "maps": "The Boatyard Manahawkin NJ",
+    "tags": [
+      "sunset",
+      "drinks"
+    ]
+  },
+  {
+    "name": "Surf City Hotel",
+    "category": "Sunset & Happy Hour",
+    "description": "A convenient happy-hour option.",
+    "pick": true,
+    "local": false,
+    "website": "https://surfcityhotel.com/",
+    "maps": "Surf City Hotel NJ",
+    "tags": [
+      "happy hour"
+    ]
+  },
+  {
+    "name": "Black Eyed Susans Bar",
+    "category": "Sunset & Happy Hour",
+    "description": "Check the official site for current bar and seasonal specials.",
+    "pick": false,
+    "local": true,
+    "website": "https://www.blackeyedsusanslbi.com/",
+    "maps": "Black Eyed Susans Harvey Cedars NJ",
+    "tags": [
+      "happy hour",
+      "bar"
+    ]
+  },
+  {
+    "name": "The Old Causeway",
+    "category": "Sunset & Happy Hour",
+    "description": "Popular off-island steak, oyster, and bar stop. Check current specials.",
+    "pick": false,
+    "local": true,
+    "website": "https://theoldcauseway.com/",
+    "maps": "The Old Causeway Manahawkin NJ",
+    "tags": [
+      "happy hour",
+      "oysters"
+    ]
+  },
+  {
+    "name": "LBI Happy Hour Guide",
+    "category": "Sunset & Happy Hour",
+    "description": "Seasonal roundup of current happy-hour deals. Always verify with the restaurant.",
+    "pick": false,
+    "local": true,
+    "website": "https://www.lbilowdown.com/p/happy-hour-specials-lbi",
+    "maps": "Long Beach Island NJ",
+    "tags": [
+      "deals",
+      "happy hour"
+    ]
+  },
+  {
+    "name": "Barnegat Lighthouse",
+    "category": "Activities",
+    "description": "Climb Old Barney and enjoy the inlet, jetty, and park.",
+    "pick": true,
+    "local": false,
+    "website": "https://dep.nj.gov/parksandforests/state-park/barnegat-lighthouse-state-park/",
+    "maps": "Barnegat Lighthouse State Park NJ",
+    "tags": [
+      "lighthouse",
+      "walk"
+    ]
+  },
+  {
+    "name": "Miss Barnegat Light",
+    "category": "Activities",
+    "description": "Deep-sea fishing and cruises.",
+    "pick": true,
+    "local": false,
+    "website": "https://missbarnegatlight.com/",
+    "maps": "Miss Barnegat Light NJ",
+    "tags": [
+      "fishing",
+      "cruise"
+    ]
+  },
+  {
+    "name": "Thundering Surf Waterpark",
+    "category": "Activities",
+    "description": "Water slides, lazy river, and family fun.",
+    "pick": true,
+    "local": false,
+    "website": "https://thunderingsurflbi.com/",
+    "maps": "Thundering Surf Waterpark Beach Haven NJ",
+    "tags": [
+      "kids",
+      "waterpark"
+    ]
+  },
+  {
+    "name": "LBI Surfing",
+    "category": "Activities",
+    "description": "Surf lessons, camps, boards, and bike rentals in Surf City.",
+    "pick": true,
+    "local": false,
+    "website": "https://lbisurfing.com/",
+    "maps": "LBI Surfing Surf City NJ",
+    "tags": [
+      "surf school",
+      "bike rental"
+    ]
+  },
+  {
+    "name": "LBI Branch Library",
+    "category": "Activities",
+    "description": "A quiet, air-conditioned activity near Surf City with books and children’s programs.",
+    "pick": true,
+    "local": false,
+    "website": "https://theoceancountylibrary.org/Branches/LBI/lbi.htm",
+    "maps": "Long Beach Island Library Surf City NJ",
+    "tags": [
+      "library",
+      "quiet",
+      "rainy day"
+    ]
+  },
+  {
+    "name": "Surf City Pickleball & Beach",
+    "category": "Activities",
+    "description": "Bring the appropriate Surf City badge during the season; check current borough rules.",
+    "pick": true,
+    "local": false,
+    "website": "https://surfcitynj.org/beaches/",
+    "maps": "Surf City NJ pickleball courts",
+    "tags": [
+      "pickleball",
+      "beach badge",
+      "beach"
+    ]
+  },
+  {
+    "name": "The Mainland Arcade + Karts",
+    "category": "Activities",
+    "description": "Off-island arcade and go-karts for kids, evenings, or rainy days.",
+    "pick": true,
+    "local": false,
+    "website": "https://themainlandnj.com/arcade-karts/",
+    "maps": "The Mainland Arcade Karts Manahawkin NJ",
+    "tags": [
+      "kids",
+      "arcade",
+      "go karts",
+      "rainy day"
+    ]
+  },
+  {
+    "name": "Calloway’s & Eagleswood Driving Range",
+    "category": "Activities",
+    "description": "Driving range, mini golf, restaurant, and Monday Prime Rib Night—verify the current special before going.",
+    "pick": true,
+    "local": false,
+    "website": "https://callowaysrestaurant.com/",
+    "maps": "Calloway's Restaurant West Creek NJ",
+    "tags": [
+      "golf",
+      "driving range",
+      "prime rib",
+      "Monday"
+    ]
+  },
+  {
+    "name": "Renault Winery & Resort",
+    "category": "Activities",
+    "description": "Off-island day trip for wine, food, grounds, golf, and seasonal events.",
+    "pick": true,
+    "local": false,
+    "website": "https://renaultwinery.com/",
+    "maps": "Renault Winery Egg Harbor City NJ",
+    "tags": [
+      "winery",
+      "day trip"
+    ]
+  },
+  {
+    "name": "Tide Table Group",
+    "category": "Restaurant Groups",
+    "description": "Explore Ship Bottom Shellfish, Mud City Crab House, Black Whale, Old Causeway, Parker’s Garage, Parker’s Pearl, and related restaurants.",
+    "pick": false,
+    "local": true,
+    "website": "https://tidetablegroup.com/",
+    "maps": "Tide Table Group Long Beach Island NJ",
+    "tags": [
+      "restaurant group",
+      "seafood"
+    ]
+  },
+  {
+    "name": "Hollow Pines",
+    "category": "Restaurant Groups",
+    "description": "Off-island dining at the former Pine Tavern property. Check current details before visiting.",
+    "pick": false,
+    "local": true,
+    "website": "",
+    "maps": "Hollow Pines West Creek NJ",
+    "tags": [
+      "off island",
+      "dinner"
+    ]
+  }
+]
