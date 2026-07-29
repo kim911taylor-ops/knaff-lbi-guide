@@ -1,0 +1,31 @@
+{
+  "featured": [
+    {
+      "name": "Featured LBI Events",
+      "description": "Festival of the Sea, seasonal festivals, major community events, and Chamber highlights.",
+      "url": "https://welcometolbi.com/"
+    },
+    {
+      "name": "Full Events Calendar",
+      "description": "Browse current activities, festivals, markets, performances, and family events.",
+      "url": "https://welcometolbi.com/the-events/"
+    }
+  ],
+  "weekly": [
+    {
+      "name": "Surf City Farmers Market",
+      "when": "Monday morning",
+      "detail": "Surf City Firehouse; seasonal"
+    },
+    {
+      "name": "Calloway\u2019s Prime Rib Night",
+      "when": "Monday evening",
+      "detail": "Verify current special before going"
+    },
+    {
+      "name": "Free Summer Concerts",
+      "when": "Multiple nights",
+      "detail": "Use the LBI Locals schedule for current performers"
+    }
+  ]
+}

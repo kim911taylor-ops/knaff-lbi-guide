@@ -1,0 +1,17 @@
+{
+  "name": "The Knaff Guide",
+  "short_name": "Knaff Guide",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6fbfc",
+  "theme_color": "#082f57",
+  "description": "A family guide to Long Beach Island centered on Surf City, NJ.",
+  "icons": [
+    {
+      "src": "/assets/knaff-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

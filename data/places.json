@@ -10,7 +10,11 @@
     "tags": [
       "coffee",
       "breakfast"
-    ]
+    ],
+    "id": "how-you-brewin",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "The Local Market & Kitchen",
@@ -24,7 +28,11 @@
       "coffee",
       "prepared food",
       "breakfast"
-    ]
+    ],
+    "id": "the-local-market-kitchen",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Bageleddi’s",
@@ -37,7 +45,11 @@
     "tags": [
       "bagels",
       "breakfast"
-    ]
+    ],
+    "id": "bageleddi-s",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Playa Bowls",
@@ -50,7 +62,11 @@
     "tags": [
       "acai",
       "smoothie"
-    ]
+    ],
+    "id": "playa-bowls",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Wally’s",
@@ -65,7 +81,11 @@
       "lunch",
       "dinner",
       "waitlist"
-    ]
+    ],
+    "id": "wally-s",
+    "tip": "Use the digital waitlist before leaving the house during busy summer hours.",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "ScoJo’s Eatery",
@@ -78,7 +98,11 @@
     "tags": [
       "breakfast",
       "brunch"
-    ]
+    ],
+    "id": "scojo-s-eatery",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Uncle Will’s",
@@ -91,7 +115,11 @@
     "tags": [
       "breakfast",
       "pancakes"
-    ]
+    ],
+    "id": "uncle-will-s",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "The Chicken or the Egg",
@@ -104,7 +132,11 @@
     "tags": [
       "breakfast",
       "wings"
-    ]
+    ],
+    "id": "the-chicken-or-the-egg",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Crêperie de la Mer",
@@ -117,7 +149,11 @@
     "tags": [
       "crepes",
       "coffee"
-    ]
+    ],
+    "id": "cr-perie-de-la-mer",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Mario’s Italian Market",
@@ -130,7 +166,11 @@
     "tags": [
       "Italian",
       "sandwiches"
-    ]
+    ],
+    "id": "mario-s-italian-market",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Okie’s Butcher Shop",
@@ -144,7 +184,11 @@
       "hoagie",
       "roast beef",
       "turkey"
-    ]
+    ],
+    "id": "okie-s-butcher-shop",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Port Hole Café",
@@ -157,7 +201,11 @@
     "tags": [
       "roast beef",
       "sandwich"
-    ]
+    ],
+    "id": "port-hole-caf",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Mystic Market",
@@ -170,7 +218,11 @@
     "tags": [
       "lobster roll",
       "pork roll"
-    ]
+    ],
+    "id": "mystic-market",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Neptune Market",
@@ -184,7 +236,11 @@
       "burger",
       "sandwich",
       "lobster roll"
-    ]
+    ],
+    "id": "neptune-market",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Ship Bottom Shellfish",
@@ -197,7 +253,11 @@
     "tags": [
       "seafood",
       "dinner"
-    ]
+    ],
+    "id": "ship-bottom-shellfish",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Russo’s Italian Restaurant",
@@ -210,7 +270,11 @@
     "tags": [
       "Italian",
       "dinner"
-    ]
+    ],
+    "id": "russo-s-italian-restaurant",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Black Eyed Susans",
@@ -223,7 +287,11 @@
     "tags": [
       "dinner",
       "Harvey Cedars"
-    ]
+    ],
+    "id": "black-eyed-susans",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Stefano’s",
@@ -236,7 +304,11 @@
     "tags": [
       "fine dining",
       "Italian"
-    ]
+    ],
+    "id": "stefano-s",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "The Gables",
@@ -249,7 +321,11 @@
     "tags": [
       "fine dining",
       "special occasion"
-    ]
+    ],
+    "id": "the-gables",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Black Whale Bar & Fish House",
@@ -262,7 +338,11 @@
     "tags": [
       "seafood",
       "raw bar"
-    ]
+    ],
+    "id": "black-whale-bar-fish-house",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Parker’s Garage & Oyster Saloon",
@@ -276,7 +356,11 @@
       "seafood",
       "oysters",
       "sunset"
-    ]
+    ],
+    "id": "parker-s-garage-oyster-saloon",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Tucker’s Tavern",
@@ -289,7 +373,11 @@
     "tags": [
       "tavern",
       "raw bar"
-    ]
+    ],
+    "id": "tucker-s-tavern",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Bird & Betty’s",
@@ -302,7 +390,11 @@
     "tags": [
       "rooftop",
       "music"
-    ]
+    ],
+    "id": "bird-betty-s",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Azzurri Italian Cucina",
@@ -315,7 +407,11 @@
     "tags": [
       "Italian",
       "pasta"
-    ]
+    ],
+    "id": "azzurri-italian-cucina",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Surf City Pizza",
@@ -327,7 +423,11 @@
     "maps": "Surf City Pizza NJ",
     "tags": [
       "pizza"
-    ]
+    ],
+    "id": "surf-city-pizza",
+    "tip": "Our pick before 8 PM.",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Gateway Restaurant & Lounge",
@@ -340,7 +440,11 @@
     "tags": [
       "pizza",
       "late night"
-    ]
+    ],
+    "id": "gateway-restaurant-lounge",
+    "tip": "Best saved for a late-night pizza run.",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Rich’s Ice Cream",
@@ -352,7 +456,11 @@
     "maps": "Rich's Ice Cream Long Beach Island NJ",
     "tags": [
       "ice cream"
-    ]
+    ],
+    "id": "rich-s-ice-cream",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Rita’s Italian Ice",
@@ -365,7 +473,11 @@
     "tags": [
       "Italian ice",
       "gelati"
-    ]
+    ],
+    "id": "rita-s-italian-ice",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Blue Claw Seafood Market",
@@ -379,7 +491,11 @@
       "seafood market",
       "shrimp",
       "fish"
-    ]
+    ],
+    "id": "blue-claw-seafood-market",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Blacky’s Clam Stand",
@@ -393,7 +509,11 @@
       "clams",
       "off island",
       "wholesale"
-    ]
+    ],
+    "id": "blacky-s-clam-stand",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Boulevard Clams",
@@ -406,7 +526,11 @@
     "tags": [
       "clams",
       "seafood"
-    ]
+    ],
+    "id": "boulevard-clams",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Anchor Produce",
@@ -419,7 +543,11 @@
     "tags": [
       "corn",
       "produce"
-    ]
+    ],
+    "id": "anchor-produce",
+    "tip": "Go early when Jersey corn is in season.",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Country Corner Farm Market",
@@ -432,7 +560,11 @@
     "tags": [
       "produce",
       "pies"
-    ]
+    ],
+    "id": "country-corner-farm-market",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "The Cheese Shoppe",
@@ -445,7 +577,11 @@
     "tags": [
       "cheese",
       "charcuterie"
-    ]
+    ],
+    "id": "the-cheese-shoppe",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Surf City Farmers Market",
@@ -458,7 +594,11 @@
     "tags": [
       "Monday",
       "farmers market"
-    ]
+    ],
+    "id": "surf-city-farmers-market",
+    "tip": "Monday morning at the Surf City Firehouse—go early.",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "The Salt Shack",
@@ -471,7 +611,11 @@
     "tags": [
       "sunset",
       "drinks"
-    ]
+    ],
+    "id": "the-salt-shack",
+    "tip": "Arrive early enough to get settled before sunset.",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "The Boatyard / Prop Bar",
@@ -484,7 +628,11 @@
     "tags": [
       "sunset",
       "drinks"
-    ]
+    ],
+    "id": "the-boatyard-prop-bar",
+    "tip": "A relaxed off-island sunset option with a marina feel.",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Surf City Hotel",
@@ -496,7 +644,11 @@
     "maps": "Surf City Hotel NJ",
     "tags": [
       "happy hour"
-    ]
+    ],
+    "id": "surf-city-hotel",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Black Eyed Susans Bar",
@@ -509,7 +661,11 @@
     "tags": [
       "happy hour",
       "bar"
-    ]
+    ],
+    "id": "black-eyed-susans-bar",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "The Old Causeway",
@@ -522,7 +678,11 @@
     "tags": [
       "happy hour",
       "oysters"
-    ]
+    ],
+    "id": "the-old-causeway",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "LBI Happy Hour Guide",
@@ -535,7 +695,11 @@
     "tags": [
       "deals",
       "happy hour"
-    ]
+    ],
+    "id": "lbi-happy-hour-guide",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Barnegat Lighthouse",
@@ -548,7 +712,11 @@
     "tags": [
       "lighthouse",
       "walk"
-    ]
+    ],
+    "id": "barnegat-lighthouse",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Miss Barnegat Light",
@@ -561,7 +729,11 @@
     "tags": [
       "fishing",
       "cruise"
-    ]
+    ],
+    "id": "miss-barnegat-light",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Thundering Surf Waterpark",
@@ -574,7 +746,11 @@
     "tags": [
       "kids",
       "waterpark"
-    ]
+    ],
+    "id": "thundering-surf-waterpark",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "LBI Surfing",
@@ -587,7 +763,11 @@
     "tags": [
       "surf school",
       "bike rental"
-    ]
+    ],
+    "id": "lbi-surfing",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "LBI Branch Library",
@@ -601,7 +781,11 @@
       "library",
       "quiet",
       "rainy day"
-    ]
+    ],
+    "id": "lbi-branch-library",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Surf City Pickleball & Beach",
@@ -615,7 +799,11 @@
       "pickleball",
       "beach badge",
       "beach"
-    ]
+    ],
+    "id": "surf-city-pickleball-beach",
+    "tip": "Bring the appropriate seasonal Surf City beach or recreation badge.",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "The Mainland Arcade + Karts",
@@ -630,7 +818,11 @@
       "arcade",
       "go karts",
       "rainy day"
-    ]
+    ],
+    "id": "the-mainland-arcade-karts",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Calloway’s & Eagleswood Driving Range",
@@ -645,7 +837,11 @@
       "driving range",
       "prime rib",
       "Monday"
-    ]
+    ],
+    "id": "calloway-s-eagleswood-driving-range",
+    "tip": "Check the current Monday Prime Rib special before heading over.",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Renault Winery & Resort",
@@ -658,7 +854,11 @@
     "tags": [
       "winery",
       "day trip"
-    ]
+    ],
+    "id": "renault-winery-resort",
+    "tip": "",
+    "phone": "",
+    "featured": true
   },
   {
     "name": "Tide Table Group",
@@ -671,7 +871,11 @@
     "tags": [
       "restaurant group",
       "seafood"
-    ]
+    ],
+    "id": "tide-table-group",
+    "tip": "",
+    "phone": "",
+    "featured": false
   },
   {
     "name": "Hollow Pines",
@@ -684,6 +888,10 @@
     "tags": [
       "off island",
       "dinner"
-    ]
+    ],
+    "id": "hollow-pines",
+    "tip": "",
+    "phone": "",
+    "featured": false
   }
 ]

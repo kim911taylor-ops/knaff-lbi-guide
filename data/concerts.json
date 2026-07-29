@@ -1,38 +1,45 @@
-[
-  {
-    "day": "Sunday",
-    "venue": "68th Street Beach, Long Beach Township",
-    "time": "Seasonal evening series",
-    "link": "https://welcometolbi.com/events/"
+{
+  "primarySource": {
+    "name": "LBI Locals \u2014 Free Concert Series Summer 2026",
+    "url": "https://lbilocals.com/lbi-free-concert-series-summer-2026/",
+    "description": "Best source for the current weekly free-concert lineup, performers, times, and weather changes."
   },
-  {
-    "day": "Monday",
-    "venue": "Barnegat Light summer concert series",
-    "time": "Seasonal evenings",
-    "link": "https://welcometolbi.com/events/"
-  },
-  {
-    "day": "Wednesday",
-    "venue": "Harvey Cedars Sunset Park",
-    "time": "Seasonal evenings",
-    "link": "https://welcometolbi.com/events/"
-  },
-  {
-    "day": "Wednesday",
-    "venue": "Beach Haven Concerts on the Green",
-    "time": "7:30 PM",
-    "link": "https://beachhavencap.org/summer-concerts/"
-  },
-  {
-    "day": "Thursday",
-    "venue": "Ship Bottom summer concert series",
-    "time": "Seasonal evenings",
-    "link": "https://welcometolbi.com/events/"
-  },
-  {
-    "day": "Friday",
-    "venue": "Firepit Fridays",
-    "time": "Seasonal evenings",
-    "link": "https://welcometolbi.com/events/"
-  }
-]
+  "series": [
+    {
+      "day": "Sunday",
+      "name": "Long Beach Township Summer Concerts",
+      "location": "Check current LBI Locals schedule",
+      "time": "Seasonal evenings"
+    },
+    {
+      "day": "Monday",
+      "name": "Barnegat Light Summer Concerts",
+      "location": "Barnegat Light",
+      "time": "Seasonal evenings"
+    },
+    {
+      "day": "Wednesday",
+      "name": "Harvey Cedars Sunset Park Concerts",
+      "location": "Sunset Park",
+      "time": "Seasonal evenings"
+    },
+    {
+      "day": "Wednesday",
+      "name": "Beach Haven Concerts on the Green",
+      "location": "Veterans Memorial Park",
+      "time": "Seasonal evenings"
+    },
+    {
+      "day": "Thursday",
+      "name": "Ship Bottom Summer Concerts",
+      "location": "Ship Bottom",
+      "time": "Seasonal evenings"
+    },
+    {
+      "day": "Friday",
+      "name": "Firepit Fridays",
+      "location": "Long Beach Township",
+      "time": "Seasonal evenings"
+    }
+  ]
+}

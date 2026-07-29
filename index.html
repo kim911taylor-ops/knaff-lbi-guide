@@ -1,24 +1,94 @@
-<!doctype html><html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#082f57"><meta name="description" content="The Knaff Guide: family favorites and live Long Beach Island conditions.">
-<title>The Knaff Guide 1.0</title><link rel="stylesheet" href="styles.css?v=1.01">
-</head><body>
-<header class="hero"><img class="logo" src="assets/knaff-logo.png" alt="The Knaff Guide Barnegat Lighthouse logo"><p>Our family’s favorite places to eat, drink, shop, and explore on Long Beach Island.</p></header>
-<div class="sticky"><div class="search"><input id="search" type="search" placeholder="Search coffee, seafood, kids, rainy day…"></div><nav id="tabs" class="tabs"></nav></div>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#082f57">
+<meta name="description" content="The Knaff Guide: a family Long Beach Island companion centered on Surf City, NJ 08008.">
+<title>The Knaff Guide 1.5 Beta</title>
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="stylesheet" href="styles.css?v=1.5">
+</head>
+<body>
+<header class="hero">
+  <div class="top-actions"><button id="themeToggle" class="icon-btn" aria-label="Toggle dark mode">◐</button></div>
+  <img class="logo" src="assets/knaff-logo.png" alt="The Knaff Guide logo featuring Barnegat Lighthouse">
+  <div class="hero-copy"><div class="hero-sub">Your personal Long Beach Island companion</div>Family favorites, live Surf City conditions, concerts, events, and easy directions.</div>
+</header>
+
+<div class="sticky">
+  <div class="search"><input id="search" type="search" placeholder="Search coffee, clams, kids, rainy day, sunset…"></div>
+  <nav id="tabs" class="tabs" aria-label="Guide sections"></nav>
+</div>
+
 <main>
 <section id="today">
- <div class="panel"><h2>Today on LBI</h2><div class="conditions">
-  <div class="condition"><b>WEATHER</b><div id="weather">Loading…</div></div>
-  <div class="condition"><b>HIGH & LOW TIDES</b><div id="tides">Loading…</div></div>
-  <div class="condition"><b>OCEAN</b><div id="ocean">Loading…</div></div>
-  <div class="condition"><b>TODAY</b><div id="dayinfo">Loading…</div></div>
- </div><p class="source">Live data: National Weather Service, NOAA Tides & Currents, and NOAA buoy 44091. Offshore water temperature may differ from the surf.</p>
- <div class="actions"><a class="btn" target="_blank" href="https://forecast.weather.gov/MapClick.php?lat=39.6621&lon=-74.1651">Full forecast</a><a class="btn" target="_blank" href="https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=8533615">Full tide chart</a><a class="btn" target="_blank" href="https://www.ndbc.noaa.gov/station_page.php?station=44091">Buoy details</a></div>
- </div>
- <div class="panel"><h2>Choose your day</h2><div class="actions"><button class="btn" onclick="document.querySelector('[data-tab=&quot;Restaurants&quot;]').click()">Eat & Drink</button><button class="btn" onclick="document.querySelector('[data-tab=&quot;Happy Hour&quot;]').click()">Happy Hour</button><button class="btn" onclick="document.querySelector('[data-tab=&quot;Free Concerts&quot;]').click()">Tonight’s Concerts</button><button class="btn" onclick="document.querySelector('[data-tab=&quot;Activities&quot;]').click()">Kids & Activities</button></div></div>
+  <div class="panel">
+    <div class="location-pill">📍 Surf City, NJ 08008</div>
+    <h2>Today on LBI</h2>
+    <div class="conditions">
+      <div class="condition"><b>CURRENT WEATHER</b><div id="weather">Loading…</div></div>
+      <div class="condition"><b>TODAY’S FORECAST</b><div id="forecast">Loading…</div></div>
+      <div class="condition"><b>NEXT HIGH & LOW TIDES</b><div id="tides">Loading…</div></div>
+      <div class="condition"><b>OCEAN</b><div id="ocean">Loading…</div></div>
+      <div class="condition"><b>SUNRISE & SUNSET</b><div id="sun">Loading…</div></div>
+    </div>
+    <p class="source">Live data comes from the National Weather Service, NOAA Tides & Currents, NOAA buoy 44091, and sunrise-sunset.org. Offshore water and wave readings can differ from conditions directly in the surf.</p>
+    <div class="actions">
+      <a class="btn" target="_blank" href="https://forecast.weather.gov/MapClick.php?lat=39.674&lon=-74.157">Full Surf City forecast</a>
+      <a class="btn" target="_blank" href="https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=8533615">Full tide chart</a>
+      <a class="btn" target="_blank" href="https://www.ndbc.noaa.gov/station_page.php?station=44091">Ocean buoy details</a>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>Ideas for Today</h2>
+    <div id="suggestions" class="quick-actions"></div>
+  </div>
+
+  <div class="panel">
+    <h2>What sounds good?</h2>
+    <div class="quick-actions">
+      <button class="quick" onclick="document.querySelector('[data-tab=&quot;Restaurants&quot;]').click()">🍽 Eat & Drink</button>
+      <button class="quick" onclick="document.querySelector('[data-tab=&quot;Happy Hour&quot;]').click()">🍹 Happy Hour</button>
+      <button class="quick" onclick="document.querySelector('[data-tab=&quot;Concerts&quot;]').click()">🎵 Concerts</button>
+      <button class="quick" onclick="document.querySelector('[data-tab=&quot;Events&quot;]').click()">📅 Events</button>
+      <button class="quick" onclick="document.querySelector('[data-tab=&quot;Activities&quot;]').click()">👨‍👩‍👧 Activities</button>
+      <button class="quick" onclick="document.querySelector('[data-tab=&quot;Knaff Picks&quot;]').click()">⭐ Knaff Picks</button>
+    </div>
+  </div>
 </section>
-<section id="concerts" class="panel hidden"><h2>Free Summer Concerts</h2><p>Recurring seasonal series are listed below. Use each current-schedule link because performers and weather cancellations can change.</p><div id="concertList"></div></section>
-<section id="listing"><div id="cards" class="grid"></div><div id="empty" class="panel empty hidden">No matching places yet.</div></section>
-<section class="panel qr"><h2>Share The Knaff Guide</h2><img id="qr" alt="QR code"><p><b>knaff-lbi-guide.netlify.app</b></p></section>
-</main><footer>The Knaff Guide 1.01 · Built for family, friends, and guests.</footer>
-<script src="app.js?v=1.01"></script></body></html>
+
+<section id="concerts" class="panel hidden">
+  <h2>Free Summer Concerts</h2>
+  <p>The current 2026 schedule is maintained by LBI Locals. Use it for performer names, exact times, and weather changes.</p>
+  <div id="concertSource"></div>
+  <h3 class="section-title">Recurring Weekly Series</h3>
+  <div id="concertList"></div>
+</section>
+
+<section id="events" class="panel hidden">
+  <h2>Events & Festivals</h2>
+  <p>Use the Southern Ocean County Chamber pages for Festival of the Sea, featured events, markets, performances, and other activities around LBI.</p>
+  <div id="featuredEvents"></div>
+  <h3 class="section-title">Weekly Reminders</h3>
+  <div id="weeklyEvents"></div>
+</section>
+
+<section id="listing">
+  <div id="cards" class="grid"></div>
+  <div id="empty" class="panel empty hidden">No matching places yet.</div>
+</section>
+
+<section class="panel qr">
+  <h2>Share The Knaff Guide</h2>
+  <p>Scan to open the guide on any phone.</p>
+  <img id="qr" alt="QR code for The Knaff Guide">
+  <p><b>knaff-lbi-guide.netlify.app</b></p>
+</section>
+</main>
+
+<footer>The Knaff Guide 1.5 Beta · Built for family, friends, and guests.</footer>
+<script src="app.js?v=1.5"></script>
+</body>
+</html>
